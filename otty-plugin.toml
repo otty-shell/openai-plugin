@@ -3,9 +3,9 @@
 [plugin]
 id = "openai"
 name = "OpenAI"
-version = "0.2.17"
+version = "0.0.1"
 description = "Codex, ChatGPT and OpenAI accounts in OTTY."
-repository = "https://github.com/otty-shell/otty-plugin-openai"
+repository = "https://github.com/otty-shell/openai-plugin"
 license = "Apache-2.0"
 authors = ["OTTY team"]
 wasm = "openai.wasm"

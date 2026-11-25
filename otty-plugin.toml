@@ -14,7 +14,7 @@ wasm = "openai.wasm"
 id = "codex"
 name = "Codex"
 description = "Finds Codex profiles, sessions, tokens and their money."
-icon = "codex.svg"
+icon = "openai.svg"
 program = "codex"
 tested_version = "0.169.0"
 

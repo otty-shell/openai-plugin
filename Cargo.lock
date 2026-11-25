@@ -244,6 +244,7 @@ checksum = "cf8baf1c55e62ffcace7a9f06f4bd9cd3f0c4beb022d3b367256b91b87513d98"
 [[package]]
 name = "otty-plugin-manifest"
 version = "0.1.0"
+source = "git+https://github.com/otty-shell/otty?branch=agents#6fd2c16a45d1b99a9ea7e96e66501bf512d8637f"
 dependencies = [
  "globset",
  "semver",
@@ -265,6 +266,7 @@ dependencies = [
 [[package]]
 name = "otty-plugin-sdk"
 version = "0.1.0"
+source = "git+https://github.com/otty-shell/otty?branch=agents#6fd2c16a45d1b99a9ea7e96e66501bf512d8637f"
 dependencies = [
  "base64",
  "globset",
